@@ -31,7 +31,7 @@ Usage is as follows:
       Constructs the a region graph using the outer regions specified in
       the <rgfilename>. Inner regions are filled in using cvm.
     -verbose  Runs in verbose mode.
-
+ 
 
 ===
 Sample input file is grid4x4.uai. Details of the file format can be 
