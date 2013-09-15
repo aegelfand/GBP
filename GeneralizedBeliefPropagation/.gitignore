@@ -1,0 +1,4 @@
+/Debug
+/Release/GeneralizedBeliefPropagation
+/Release/*.d
+/Release/*.o
