@@ -76,7 +76,7 @@ int m_iBound = 1;
  */
 void help() {
 	cout << "Usage:" << endl;
-	cout << "  runGBP <uaifilename> <seed>" << endl << endl;
+	cout << "  GeneralizedBeliefPropagation <uaifilename> <seed>" << endl << endl;
 	cout << "  Runs Genearlized Belief Propagation (GBP) on the network specified" << endl;
 	cout << "  by <uaifilename>. The network must be in .uai format." << endl;
 	cout << "  Computes: " << endl;
