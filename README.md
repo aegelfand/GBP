@@ -33,7 +33,7 @@ Usage:
 &nbsp;&nbsp;&nbsp;&nbsp;    <i>-verbose</i>  Runs in verbose mode.
  
 ===
-File Specification:
+Input File Specification:
 
 Sample input file is <i>grid4x4.uai</i>. Details of the uai file format can be 
 found at: http://www.cs.huji.ac.il/project/PASCAL/fileFormat.php
@@ -55,3 +55,9 @@ of a 4-by-4 grid: <br>
 The first field is the number of regions (e.g. 9). Then for 
 each region one first specifies the number of variables in that 
 region (e.g. 4), followed by the variables in that region (e.g. 0 1 4 5).
+
+===
+Build Instructions:
+
+The source code has no external dependencies, so you should simply be able to run 
+<i>make all</i> in the <i>Release</i> folder to get a clean (and functional) build!
